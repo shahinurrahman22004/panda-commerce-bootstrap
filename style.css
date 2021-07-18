@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.panda-bg-pink {
+    background-color: #fceae8;
+}
+.catagories img {
+    width: 100px;
+}
+.panda-btn-color {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+.text-color {
+    color: #ff3082;
+}
